@@ -57,4 +57,12 @@ Screenshots.
 ![image](https://github.com/user-attachments/assets/72313459-90f5-4fd9-9ffb-38c6c33394e7)
 ![image](https://github.com/user-attachments/assets/c9e75457-50f4-4f26-b9de-a2f8a0a951b8)
 
+---
+
+## Author
+
+👤 **Akshay MV**
+
+- GitHub: [@98mva](https://github.com/98mva)
+- Docker Hub: [97418485](https://hub.docker.com/u/97418485)
 
