@@ -66,3 +66,10 @@ Screenshots.
 - GitHub: [@98mva](https://github.com/98mva)
 - Docker Hub: [97418485](https://hub.docker.com/u/97418485)
 
+---
+
+## License
+
+This project is open source and available under the [MIT License](LICENSE).
+
+
